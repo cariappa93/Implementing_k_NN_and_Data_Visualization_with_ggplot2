@@ -1,4 +1,4 @@
-## Perform Lazy Learning k-NN on IRIS dataset and creating ggplot2 - R style visuals on Jupyter Notebook
+## Implementing Lazy Learning k-NN on IRIS dataset and creating ggplot2 - R style visuals on Jupyter Notebook
 
 **Points to note when using KNN:**
 - k-NN classifier are model-free lazy-learners as they delay the process of modeling the training data until it is needed to classify the test instance 
